@@ -14,8 +14,12 @@
 @import './home/parceiros.css';
 @import './home/depoimento.css';
 
-/*** Lista Bicicletas ***/
+/***Bicicletas ***/
 @import './bicicletas/bicicletas-lista.css';
+@import "./bicicletas/bicicletas.css";
+
+/* Bicicletas */
+@import "./bicicleta/bicicleta.css";
 
 /* seguros */
 @import "./seguros/seguros.css";
@@ -24,6 +28,3 @@
 
 /* termos */
 @import "./termos/termos.css";
-
-/* Bicicletas */
-@import "./bicicletas/bicicletas.css";
