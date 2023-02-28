@@ -62,6 +62,6 @@ padding-bottom: 120px;
 
 @media (max-width: 600px){
   .lojas{
-    grid-template-columns: 1ff;
+    grid-template-columns: 1fr;
   }
 }
